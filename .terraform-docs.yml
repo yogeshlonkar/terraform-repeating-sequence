@@ -1,0 +1,10 @@
+# .terraform-docs.yaml
+settings:
+  anchor: false
+  escape: true
+  hide-empty: true
+sort:
+  by: required
+formatter: markdown
+output:
+  file: README.md
